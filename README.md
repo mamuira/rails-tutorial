@@ -1,5 +1,6 @@
-# Ruby on Rails Tutorial: "hello, world!"
+# Ruby on Railsチュートリアル: サンプルアプリケーション
 
-This is the first application for the
-[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+これは以下に基づいたサンプル・アプリケーションです
+[*Ruby on Railsチュートリアル:
+実例を使ってRailsを学ぼう*](http://railstutorial.jp/)
+[Michael Hartl](http://www.michaelhartl.com/)著
