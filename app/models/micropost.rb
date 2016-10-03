@@ -1,4 +1,5 @@
-class Micropost < ApplicationRecord
+class Micropost < ActiveRecord::Base
   belongs_to :user
-  validates :conect, length: { maximum: 140}
+  validates :content, length: { maximum: 140 },
+                      presence: true
 end
