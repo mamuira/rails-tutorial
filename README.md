@@ -1,1 +1,1 @@
-# rails-tutorial
+# Ruby on Rails Tutorial: "hello, world!"
