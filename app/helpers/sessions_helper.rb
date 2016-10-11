@@ -15,7 +15,7 @@ module SessionsHelper
     user == current_user
   end
 
-  # 現在ログインしているユーザーを返す (ユーザーがログイン中の場合のみ)
+  # 現在ログイン中のユーザーを返す (いる場合)
   def current_user
     if (user_id = session[:user_id])
       @current_user ||= User.find_by(id: user_id)
